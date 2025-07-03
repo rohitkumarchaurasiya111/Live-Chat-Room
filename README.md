@@ -42,7 +42,7 @@ A feature-rich realtime chat application built with Node.js, Express, and Socket
 
 5. Open in browser:
    ```bash
-   [git clone https://github.com/yourusername/chat-app
+   [git clone [https://github.com/yourusername/chat-app](https://github.com/rohitkumarchaurasiya111/Live-Chat-Room)
    cd chat-app](http://localhost:3000)
 
 ## Usage 🚀
